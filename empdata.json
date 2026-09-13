@@ -1,0 +1,57 @@
+{
+  "company": "TechCorp Global",
+  "lastUpdated": "2026-07-15T18:51:00Z",
+  "employees": [
+    {
+      "id": "EMP-001",
+      "personalInfo": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@techcorp.com",
+        "phone": "+1-555-0198"
+      },
+      "employment": {
+        "jobTitle": "Senior Software Engineer",
+        "department": "Engineering",
+        "hireDate": "2021-03-15",
+        "salary": 115000,
+        "status": "Active"
+      },
+      "skills": ["JavaScript", "Python", "Docker", "AWS"]
+    },
+    {
+      "id": "EMP-002",
+      "personalInfo": {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@techcorp.com",
+        "phone": "+1-555-0143"
+      },
+      "employment": {
+        "jobTitle": "Product Manager",
+        "department": "Product Management",
+        "hireDate": "2023-08-01",
+        "salary": 125000,
+        "status": "Active"
+      },
+      "skills": ["Agile", "Scrum", "Product Strategy", "SQL"]
+    },
+    {
+      "id": "EMP-003",
+      "personalInfo": {
+        "firstName": "Alex",
+        "lastName": "Jones",
+        "email": "alex.jones@techcorp.com",
+        "phone": "+1-555-0177"
+      },
+      "employment": {
+        "jobTitle": "UX Designer",
+        "department": "Design",
+        "hireDate": "2024-01-10",
+        "salary": 92000,
+        "status": "On Leave"
+      },
+      "skills": ["Figma", "Wireframing", "User Research"]
+    }
+  ]
+}
